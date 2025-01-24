@@ -4,7 +4,6 @@ let soma = 0;
 
 for (let i = INDICE; k < i; k = k + 1) {
   soma = soma + k;
-
 }
 
 console.log(soma);
