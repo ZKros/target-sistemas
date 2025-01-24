@@ -2,7 +2,7 @@ const INDICE = 13;
 let k = 0;
 let soma = 0;
 
-for (let i = INDICE; k < i; k = k + 1) {
+for (let i = INDICE; k < i; k++) {
   soma = soma + k;
 }
 
