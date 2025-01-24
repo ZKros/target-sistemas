@@ -1,0 +1,184 @@
+{
+	"janeiro": [
+		{
+			"dia": 1,
+			"diaSemana": "Segunda-feira",
+			"valor": 1200.50,
+			"feriado": false
+		},
+		{
+			"dia": 2,
+			"diaSemana": "Terça-feira",
+			"valor": 1350.75,
+			"feriado": false
+		},
+		{
+			"dia": 3,
+			"diaSemana": "Quarta-feira",
+			"valor": 1100.00,
+			"feriado": false
+		},
+		{
+			"dia": 4,
+			"diaSemana": "Quinta-feira",
+			"valor": 980.20,
+			"feriado": false
+		},
+		{
+			"dia": 5,
+			"diaSemana": "Sexta-feira",
+			"valor": 1500.90,
+			"feriado": false
+		},
+		{
+			"dia": 6,
+			"diaSemana": "Sábado",
+			"valor": 1420.35,
+			"feriado": false
+		},
+		{
+			"dia": 7,
+			"diaSemana": "Domingo",
+			"valor": 1280.60,
+			"feriado": false
+		},
+		{
+			"dia": 8,
+			"diaSemana": "Segunda-feira",
+			"valor": 1150.00,
+			"feriado": false
+		},
+		{
+			"dia": 9,
+			"diaSemana": "Terça-feira",
+			"valor": 1250.45,
+			"feriado": true
+		},
+		{
+			"dia": 10,
+			"diaSemana": "Quarta-feira",
+			"valor": 1300.70,
+			"feriado": false
+		},
+		{
+			"dia": 11,
+			"diaSemana": "Quinta-feira",
+			"valor": 1400.10,
+			"feriado": false
+		},
+		{
+			"dia": 12,
+			"diaSemana": "Sexta-feira",
+			"valor": 1350.25,
+			"feriado": false
+		},
+		{
+			"dia": 13,
+			"diaSemana": "Sábado",
+			"valor": 1220.90,
+			"feriado": false
+		},
+		{
+			"dia": 14,
+			"diaSemana": "Domingo",
+			"valor": 1505.45,
+			"feriado": false
+		},
+		{
+			"dia": 15,
+			"diaSemana": "Segunda-feira",
+			"valor": 1400.85,
+			"feriado": false
+		},
+		{
+			"dia": 16,
+			"diaSemana": "Terça-feira",
+			"valor": 1550.60,
+			"feriado": false
+		},
+		{
+			"dia": 17,
+			"diaSemana": "Quarta-feira",
+			"valor": 1320.45,
+			"feriado": true
+		},
+		{
+			"dia": 18,
+			"diaSemana": "Quinta-feira",
+			"valor": 1450.75,
+			"feriado": false
+		},
+		{
+			"dia": 19,
+			"diaSemana": "Sexta-feira",
+			"valor": 1200.20,
+			"feriado": false
+		},
+		{
+			"dia": 20,
+			"diaSemana": "Sábado",
+			"valor": 1500.50,
+			"feriado": false
+		},
+		{
+			"dia": 21,
+			"diaSemana": "Domingo",
+			"valor": 1300.40,
+			"feriado": false
+		},
+		{
+			"dia": 22,
+			"diaSemana": "Segunda-feira",
+			"valor": 1400.30,
+			"feriado": false
+		},
+		{
+			"dia": 23,
+			"diaSemana": "Terça-feira",
+			"valor": 1550.70,
+			"feriado": false
+		},
+		{
+			"dia": 24,
+			"diaSemana": "Quarta-feira",
+			"valor": 1250.10,
+			"feriado": false
+		},
+		{
+			"dia": 25,
+			"diaSemana": "Quinta-feira",
+			"valor": 1480.50,
+			"feriado": false
+		},
+		{
+			"dia": 26,
+			"diaSemana": "Sexta-feira",
+			"valor": 1420.25,
+			"feriado": true
+		},
+		{
+			"dia": 27,
+			"diaSemana": "Sábado",
+			"valor": 1300.00,
+			"feriado": false
+		},
+		{
+			"dia": 28,
+			"diaSemana": "Domingo",
+			"valor": 1400.50,
+			"feriado": false
+		},
+		{
+			"dia": 29,
+			"diaSemana": "Segunda-feira",
+			"valor": 1500.80,
+			"feriado": false
+		},
+		{
+			"dia": 30,
+			"diaSemana": "Terça-feira",
+			"valor": 1600.75,
+			"feriado": false
+		}
+	]
+}
